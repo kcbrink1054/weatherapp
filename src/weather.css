@@ -1,0 +1,15 @@
+.weather-day-container{
+    width:100px;
+    text-align: center;
+    display: inline-block
+}
+.weather-text-styling{
+    margin: 5px
+}
+.weather-day-text-styling{
+    margin-bottom: 4px
+}
+
+.grey-text{
+    color: grey
+}
